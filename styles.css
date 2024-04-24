@@ -1,0 +1,16 @@
+#grid2{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap:20px;
+    text-align: center;
+}
+
+.box{
+    background-color: rgb(82, 112, 169);
+    padding: 10px;
+    border-radius: 4px;
+    margin: 1px;
+    color: white;
+}
+
+
